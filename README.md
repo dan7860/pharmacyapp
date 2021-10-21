@@ -5,7 +5,7 @@ width="200" height="200" hspace="10" vspace="10">
 
 Pharmacy - Android app is the client side app for ordering medicines.  
 It is free and open source.  
-Pharmacy for Android is a companion app for [Pharmacy Web](https://github.com/Arkanayan/Pharmacy-Web).  
+Pharmacy for Android is a companion app for [Pharmacy Web](https://github.com/dan7860/PharmacyWeb).  
 Pharmacy WebApp is for administration of orders on the admin(Pharmacy) side.
 
 
@@ -13,7 +13,7 @@ Pharmacy WebApp is for administration of orders on the admin(Pharmacy) side.
 ## About
 
 With this app, customers can order medicines from the pharmacy it is connected to.
-The pharmacy has to host the companion administration web-app [Pharmacy Web](https://github.com/Arkanayan/Pharmacy-Web).
+The pharmacy has to host the companion administration web-app [Pharmacy Web](https://github.com/dan7860/PharmacyWeb).
 
 
 ## Features
